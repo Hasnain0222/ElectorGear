@@ -1,0 +1,286 @@
+{
+  "placeholderImages": [
+    {
+      "id": "laptop-pro-1",
+      "description": "A professional laptop on a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1570717173024-ec8081c8f8e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9mZXNzaW9uYWwlMjBsYXB0b3B8ZW58MHx8fHwxNzU5NDE2MzUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional laptop"
+    },
+    {
+      "id": "smartphone-x-1",
+      "description": "A modern smartphone showcasing its screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1645680918048-ef0409ead1cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9kZXJuJTIwc21hcnRwaG9uZXxlbnwwfHx8fDE3NTk0MTYzNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern smartphone"
+    },
+    {
+      "id": "drone-4k-1",
+      "description": "A 4K drone flying in the sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1712489899293-120c6378a0f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmbHlpbmclMjBkcm9uZXxlbnwwfHx8fDE3NTk0MTYzNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flying drone"
+    },
+    {
+      "id": "headphones-noise-1",
+      "description": "Noise-cancelling headphones on a clean background.",
+      "imageUrl": "https://images.unsplash.com/photo-1634717037148-4dc76c09a328?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxub2lzZS1jYW5jZWxsaW5nJTIwaGVhZHBob25lc3xlbnwwfHx8fDE3NTkzMzAxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "noise-cancelling headphones"
+    },
+    {
+      "id": "smartwatch-fit-1",
+      "description": "A fitness smartwatch displaying health stats.",
+      "imageUrl": "https://images.unsplash.com/photo-1750776100861-30c172651817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOXx8Zml0JTIwVHJhY2slMjBTbWFydHdhdGNofGVufDB8fHx8MTc1OTQ2NDgyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness smartwatch"
+    },
+    {
+      "id": "camera-mirrorless-1",
+      "description": "A mirrorless camera with a lens attached.",
+      "imageUrl": "https://images.unsplash.com/photo-1614121152190-5cedf5e4c9fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtaXJyb3JsZXNzJTIwY2FtZXJhfGVufDB8fHx8MTc1OTM2NDEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mirrorless camera"
+    },
+    {
+      "id": "vr-headset-1",
+      "description": "A person using a virtual reality headset.",
+      "imageUrl": "https://images.unsplash.com/photo-1702471897393-47ec1ba1192b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxWUiUyMGhlYWRzZXR8ZW58MHx8fHwxNzU5MzI1MzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "VR headset"
+    },
+    {
+      "id": "gaming-console-1",
+      "description": "A next-generation gaming console.",
+      "imageUrl": "https://images.unsplash.com/photo-1486401899868-0e435ed85128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2FtaW5nJTIwY29uc29sZXxlbnwwfHx8fDE3NTkzNTA4NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gaming console"
+    },
+    {
+      "id": "projector-home-1",
+      "description": "A home theater projector in a living room setup.",
+      "imageUrl": "https://images.unsplash.com/photo-1576935429524-1df7fb127097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxob21lJTIwcHJvamVjdG9yfGVufDB8fHx8MTc1OTQxNjM1M3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "home projector"
+    },
+    {
+      "id": "router-wifi6-1",
+      "description": "A high-speed Wi-Fi 6 router.",
+      "imageUrl": "https://images.unsplash.com/photo-1554098415-4052459dc340?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3aWZpJTIwcm91dGVyfGVufDB8fHx8MTc1OTMwNTU3Mnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "wifi router"
+    },
+    {
+      "id": "mechanical-keyboard-1",
+      "description": "A mechanical keyboard with RGB lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1595225386386-79c3543adbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtZWNoYW5pY2FsJTIwa2V5Ym9hcmR8ZW58MHx8fHwxNzU5Mzk3NzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mechanical keyboard"
+    },
+    {
+      "id": "graphics-card-1",
+      "description": "A powerful graphics card for gaming and professional work.",
+      "imageUrl": "https://images.unsplash.com/photo-1634672350437-f9632adc9c3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z3JhcGhpY3MlMjBjYXJkfGVufDB8fHx8MTc1OTQwNTUwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graphics card"
+    },
+    {
+      "id": "ssd-nvme-1",
+      "description": "A fast NVMe solid-state drive.",
+      "imageUrl": "https://images.unsplash.com/photo-1686705562930-4f3e46f620d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxOVk1lJTIwU1NEfGVufDB8fHx8MTc1OTQxNjM1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "NVMe SSD"
+    },
+    {
+      "id": "portable-speaker-1",
+      "description": "A waterproof portable Bluetooth speaker.",
+      "imageUrl": "https://images.unsplash.com/photo-1608223652565-63abae6cf733?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3J0YWJsZSUyMHNwZWFrZXJ8ZW58MHx8fHwxNzU5Mzk4ODU4fDA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "portable speaker"
+    },
+    {
+      "id": "e-reader-1",
+      "description": "An e-reader with a crisp e-ink display.",
+      "imageUrl": "https://images.unsplash.com/photo-1694291546839-a0b8506040c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZS1yZWFkZXJ8ZW58MHx8fHwxNzU5NDE2MzUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "e-reader"
+    },
+    {
+      "id": "3d-printer-1",
+      "description": "A 3D printer creating a complex model.",
+      "imageUrl": "https://images.unsplash.com/photo-1582879304171-8041c73bedbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8M0QlMjBwcmludGVyfGVufDB8fHx8MTc1OTQxNjM1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "3D printer"
+    },
+    {
+      "id": "webcam-hd-1",
+      "description": "A high-definition webcam for streaming.",
+      "imageUrl": "https://images.unsplash.com/photo-1626581795188-8efb9a00eeec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxTdHJlYW1DYW0lMjB8ZW58MHx8fHwxNzU5NDY0OTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "HD webcam"
+    },
+    {
+      "id": "docking-station-1",
+      "description": "A USB-C docking station with multiple ports.",
+      "imageUrl": "https://images.unsplash.com/photo-1745422341233-d911aeaa9bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkb2NraW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3NTkzMzAxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "docking station"
+    },
+    {
+      "id": "power-bank-1",
+      "description": "A high-capacity power bank for charging devices on the go.",
+      "imageUrl": "https://images.unsplash.com/photo-1614399113305-a127bb2ca893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3dlciUyMGJhbmt8ZW58MHx8fHwxNzU5NDE2MzU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "power bank"
+    },
+    {
+      "id": "monitor-ultrawide-1",
+      "description": "An ultrawide monitor for immersive productivity.",
+      "imageUrl": "https://images.unsplash.com/photo-1717508164615-4f34b7406b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1bHRyYXdpZGUlMjBtb25pdG9yfGVufDB8fHx8MTc1OTQwNzc5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ultrawide monitor"
+    },
+    {
+      "id": "gaming-mouse-1",
+      "description": "A high-precision gaming mouse with customizable RGB.",
+      "imageUrl": "https://images.unsplash.com/photo-1632160871990-be30194885aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnYW1pbmclMjBtb3VzZXxlbnwwfHx8fDE3NTk0NTAwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gaming mouse"
+    },
+    {
+      "id": "4k-monitor-1",
+      "description": "A 27-inch 4K monitor with crystal-clear visuals.",
+      "imageUrl": "https://images.unsplash.com/photo-1675151638946-9fbe1c8b55d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHw0SyUyMG1vbml0b3J8ZW58MHx8fHwxNzU5NDEwNjMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "4K monitor"
+    },
+    {
+      "id": "wireless-earbuds-1",
+      "description": "True wireless earbuds with long battery life.",
+      "imageUrl": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aXJlbGVzcyUyMGVhcmJ1ZHN8ZW58MHx8fHwxNzU5MzU1MDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireless earbuds"
+    },
+    {
+      "id": "external-hdd-1",
+      "description": "A 4TB external hard drive for all your storage needs.",
+      "imageUrl": "https://images.unsplash.com/photo-1520433597831-bd1c24892748?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxleHRlcm5hbCUyMEhERHxlbnwwfHx8fDE3NTk0NjczNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "external HDD"
+    },
+    {
+      "id": "smart-speaker-1",
+      "description": "A smart speaker with a powerful voice assistant.",
+      "imageUrl": "https://images.unsplash.com/photo-1507646227500-4d389b0012be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbWFydCUyMHNwZWFrZXJ8ZW58MHx8fHwxNzU5NDY2NDQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart speaker"
+    },
+    {
+      "id": "action-camera-1",
+      "description": "A rugged, waterproof action camera for your adventures.",
+      "imageUrl": "https://images.unsplash.com/photo-1667502861791-f04df26abbd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhY3Rpb24lMjBjYW1lcmF8ZW58MHx8fHwxNzU5NDI0ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "action camera"
+    },
+    {
+      "id": "tablet-pro-1",
+      "description": "A powerful tablet for work and play.",
+      "imageUrl": "https://images.unsplash.com/photo-1628912595201-ad4720b4ce30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0YWJsZXQlMjBjb21wdXRlcnxlbnwwfHx8fDE3NTk0MDU5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tablet computer"
+    },
+    {
+      "id": "curved-monitor-1",
+      "description": "A 32-inch curved gaming monitor for an immersive experience.",
+      "imageUrl": "https://images.unsplash.com/photo-1666771409964-4656b1099ccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjdXJ2ZWQlMjBtb25pdG9yfGVufDB8fHx8MTc1OTQ2NzM0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "curved monitor"
+    },
+    {
+      "id": "streaming-stick-1",
+      "description": "A 4K streaming stick to upgrade any TV.",
+      "imageUrl": "https://images.unsplash.com/photo-1717548373009-73f5cacec59a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHJlYW1pbmclMjBzdGlja3xlbnwwfHx8fDE3NTk0NjczNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "streaming stick"
+    },
+    {
+      "id": "soundbar-1",
+      "description": "A premium soundbar with Dolby Atmos.",
+      "imageUrl": "https://images.unsplash.com/photo-1604914416956-38b08c516877?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb3VuZGJhciUyMGF1ZGlvfGVufDB8fHx8MTc1OTQ2NzM0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soundbar audio"
+    },
+    {
+      "id": "charging-station-1",
+      "description": "A multi-device charging station for your desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1666919643134-d97687c1826c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaGFyZ2luZyUyMHN0YXRpb258ZW58MHx8fHwxNzU5NDY3MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "charging station"
+    },
+    {
+      "id": "document-scanner-1",
+      "description": "A high-speed document scanner for a paperless office.",
+      "imageUrl": "https://images.unsplash.com/photo-1674644653898-5edf4ac87c52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkb2N1bWVudCUyMHNjYW5uZXJ8ZW58MHx8fHwxNzU5NDY3MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "document scanner"
+    },
+    {
+      "id": "mesh-wifi-1",
+      "description": "A mesh Wi-Fi system for seamless whole-home coverage.",
+      "imageUrl": "https://images.unsplash.com/photo-1662348316783-74c476374fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtZXNoJTIwd2lmaXxlbnwwfHx8fDE3NTk0NjczNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mesh wifi"
+    },
+    {
+      "id": "portable-ssd-1",
+      "description": "A rugged and portable 1TB SSD.",
+      "imageUrl": "https://images.unsplash.com/photo-1720048171098-dba33b2c4806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3J0YWJsZSUyMFNTRHxlbnwwfHx8fDE3NTk0NjczNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portable SSD"
+    },
+    {
+      "id": "drawing-tablet-1",
+      "description": "A professional drawing tablet for digital artists.",
+      "imageUrl": "https://images.unsplash.com/photo-1599252441131-5aafffcf7740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkcmF3aW5nJTIwdGFibGV0fGVufDB8fHx8MTc1OTQxMDM3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drawing tablet"
+    },
+    {
+      "id": "nas-enclosure-1",
+      "description": "A 2-bay NAS enclosure for your personal cloud.",
+      "imageUrl": "https://images.unsplash.com/photo-1645075994751-3c07ecdc2d5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxOQVMlMjBzdG9yYWdlfGVufDB8fHx8MTc1OTQ2NzM0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "NAS storage"
+    },
+    {
+      "id": "usb-hub-1",
+      "description": "A 7-port USB 3.0 hub for expanded connectivity.",
+      "imageUrl": "https://images.unsplash.com/photo-1751971309860-536bc2b02191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxVU0IlMjBodWJ8ZW58MHx8fHwxNzU5NDY3MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "USB hub"
+    },
+    {
+      "id": "smart-lighting-1",
+      "description": "A starter kit for smart home lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1588854337236-6889d631faa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzbWFydCUyMGxpZ2h0aW5nfGVufDB8fHx8MTc1OTQwNTcyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart lighting"
+    },
+    {
+      "id": "conference-mic-1",
+      "description": "A 360-degree conference microphone for clear meetings.",
+      "imageUrl": "https://images.unsplash.com/photo-1648522168473-dfec1d2a5cde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxDbGFyaXR5JTIwMzYwJTIwbWljfGVufDB8fHx8MTc1OTQ2Nzk2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "conference microphone"
+    },
+    {
+      "id": "ergonomic-mouse-1",
+      "description": "A vertical ergonomic mouse to reduce wrist strain.",
+      "imageUrl": "https://images.unsplash.com/photo-1586349906319-48d20e9d17e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8TW91c2UlMjBmb3IlMjBwY3xlbnwwfHx8fDE3NTk0Njc3OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ergonomic mouse"
+    },
+    {
+      "id": "laptop-stand-1",
+      "description": "An adjustable aluminum laptop stand.",
+      "imageUrl": "https://images.unsplash.com/photo-1623251606108-512c7c4a3507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBzdGFuZHxlbnwwfHx8fDE3NTk0MTI1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop stand"
+    },
+    {
+      "id": "sd-card-reader-1",
+      "description": "A high-speed USB-C SD card reader.",
+      "imageUrl": "https://images.unsplash.com/photo-1602524815920-35f31875e44c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8U0QlMjBjYXJkfGVufDB8fHx8MTc1OTQ2NzM0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "SD card"
+    },
+    {
+      "id": "motherboard-1",
+      "description": "A feature-rich ATX motherboard for gamers and creators.",
+      "imageUrl": "https://images.unsplash.com/photo-1667308274522-886ce9a3f0cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21wdXRlciUyMG1vdGhlcmJvYXJkfGVufDB8fHx8MTc1OTM1ODkzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "computer motherboard"
+    },
+    {
+      "id": "ram-kit-1",
+      "description": "A 32GB DDR5 RAM kit for high-performance computing.",
+      "imageUrl": "https://images.unsplash.com/photo-1571177052041-9d7a4b75857a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxSQU0lMjBzdGlja3N8ZW58MHx8fHwxNzU5NDY3MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "RAM sticks"
+    },
+    {
+      "id": "cpu-cooler-1",
+      "description": "A liquid CPU cooler for optimal thermal performance.",
+      "imageUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxDUFUlMjBjb29sZXJ8ZW58MHx8fHwxNzU5NDY3MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "CPU cooler"
+    },
+    {
+      "id": "power-supply-1",
+      "description": "A 850W Gold-rated modular power supply.",
+      "imageUrl": "https://images.unsplash.com/photo-1716062890647-60feae0609d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxQb3dlckNvcmUlMjA4NTBXJTIwZm9yJTIwUEN8ZW58MHx8fHwxNzU5NDY4NDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "power supply"
+    },
+    {
+      "id": "pc-case-1",
+      "description": "A mid-tower ATX PC case with excellent airflow.",
+      "imageUrl": "https://images.unsplash.com/photo-1725302862351-869681e17dbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8Rmxvd01lc2glMjBQQyUyMENhc2V8ZW58MHx8fHwxNzU5NDY4MjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "PC case"
+    }
+  ]
+}
